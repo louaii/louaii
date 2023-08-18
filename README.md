@@ -1,10 +1,10 @@
 # Louay Serhal
 
-Hello!👋 I'm Louay Serhal, a dedicated cybersecurity analyst focused on identifying and mitigating risks to ensure security and protect assets. My efforts revolve around analyzing threats and vulnerabilities, safeguarding organizations, and upholding confidentiality, integrity, and availability. I'm a senior student at Lebanese International University, with expertise in networking and security, focuses on Linux operating systems and Kali Linux. Am passionate about cybersecurity, they use programming languages like Java and Python, and prioritize proactive threat analysis and data privacy. 
+Hello!👋 I'm Louay Serhal, a dedicated cybersecurity analyst focused on identifying and mitigating risks to ensure security and protect assets. My efforts revolve around analyzing threats and vulnerabilities, safeguarding organizations, and upholding confidentiality, integrity, and availability. I'm a senior student at Lebanese International University, with expertise in networking and security, focuses on Linux operating systems and Kali Linux. Am passionate about cybersecurity, they use programming languages like Java, Python, SQL,  and prioritize proactive threat analysis and data privacy. 
 In my pursuit of excellence, I am planning to continue my education by pursuing a master's degree in cybersecurity at Lebanese University.
 
  💪 Strengths:
-- **Expertise in Diverse Programming Languages:** Strong programming foundation in Java, Python, C# enables versatile adaptation and efficient project challenges.
+- **Expertise in Diverse Programming Languages:** Strong programming foundation in Java, Python and SQL enables versatile adaptation and efficient project challenges.
 - **Comprehensive Network Security Proficiency:** Expertise in cybersecurity in networking, implementing robust measures.
 - **Holistic Threat Analysis and Incident Response:** Analyzes threats, malware, and responds to security breaches.
 
