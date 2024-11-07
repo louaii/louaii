@@ -20,7 +20,7 @@ IT support professional with a focus on security, specializing in identifying an
 - **Programming Languages:** Java, Python, JavaScript, SQL
 - **Network Security:** Switching, Routing, AAA, Access Lists, IDS/IPS, Firewalls
 - **Cybersecurity:** Threat Analysis, Malware Detection, Incident Response
-- **Operating Systems:** Linux (Kali Linux)
+- **Operating Systems:** Linux, Windows, Windows Server, MacOS.
 
 
 📫 Reference: 
