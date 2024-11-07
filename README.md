@@ -11,9 +11,10 @@
 IT support professional with a focus on security, specializing in identifying and mitigating risks to ensure asset protection. Skilled in analyzing threats and vulnerabilities while upholding the principles of confidentiality, integrity, and availability. Strong problem-solving and troubleshooting abilities 💻.
 
  💪 Strengths:
-- **Expertise in Diverse Programming Languages:** Strong programming foundation in Java, Python and SQL enables versatile adaptation and efficient project challenges.
-- **Comprehensive Network Security Proficiency:** Expertise in cybersecurity in networking, implementing robust measures.
-- **Holistic Threat Analysis and Incident Response:** Analyzes threats, malware, and responds to security breaches.
+- **Expertise in Scripting:** Proficient in Python and Bash scripting, enabling automation and efficient problem-solving.
+- **Hardware Repair:**  Skilled in diagnosing and repairing servers, desktops, and laptops to ensure optimal performance.
+- **Switching Proficiency:** Extensive experience with switching technologies from Cisco, HP, and Aruba, ensuring reliable network connectivity.
+- **Routing Expertise:** Proficient in configuring and managing routers from Mikrotik and Cisco to optimize network performance and reliability.
 
  🔐 Values:
 - **Safeguarding Digital Environments:** Security analyst prioritizes protecting organizations and individuals from cyber threats.
