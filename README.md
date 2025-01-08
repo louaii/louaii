@@ -17,7 +17,8 @@ IT support professional with a focus on security, specializing in identifying an
 - **Routing Expertise:** Proficient in configuring and managing routers from Mikrotik and Cisco to optimize network performance and reliability.
 - **Safeguarding Digital Environments:** Security analyst prioritizes protecting organizations and individuals from cyber threats.
 - **Ensuring Data Privacy and Compliance:** Maintaining data privacy, respecting rights, and adhering to legal frameworks is crucial.
-- **Programming Languages:** Java, Python, JavaScript, SQL, PHP, Laravel, .Net
+- **Programming Languages:** Java, Python, JavaScript, SQL, PHP, C#
+- **Frameworks:** .Net, Spring, Laravel
 - **Network Security:** Switching, Routing, AAA, Access Lists, IDS/IPS, Firewalls
 - **Cybersecurity:** Threat Analysis, Malware Detection, Incident Response
 - **Operating Systems:** Linux, Windows, Windows Server, MacOS.
