@@ -15,17 +15,30 @@ infrastructures. Currently pursuing opportunities to further develop technical e
 innovative, high-impact projects in dynamic environments. 💻.
 
 
-- **Expertise in Scripting:** Proficient in Python and Bash scripting, enabling automation and efficient problem-solving.
-- **Hardware Repair:**  Skilled in diagnosing and repairing servers, desktops, and laptops to ensure optimal performance.
-- **Switching Proficiency:** Extensive experience with switching technologies from Cisco, HP, and Aruba, ensuring reliable network connectivity.
-- **Routing Expertise:** Proficient in configuring and managing routers from Mikrotik and Cisco to optimize network performance and reliability.
-- **Safeguarding Digital Environments:** Security analyst prioritizes protecting organizations and individuals from cyber threats.
-- **Ensuring Data Privacy and Compliance:** Maintaining data privacy, respecting rights, and adhering to legal frameworks is crucial.
-- **Programming Languages:** Java, Python, JavaScript, SQL, PHP, C#
-- **Frameworks:** .Net, Spring, Laravel
-- **Network Security:** Switching, Routing, AAA, Access Lists, IDS/IPS, Firewalls
-- **Cybersecurity:** Threat Analysis, Malware Detection, Incident Response
+- **Systems Administration:** Skilled in deploying, managing, and securing Linux and Windows Server environments, including Active Directory, Group Policy, and LDAP.
+- **Cloud Infrastructure:** Experienced in designing and operating scalable cloud environments on AWS and Azure.
+- **Infrastructure Automation:** Proficient in Terraform and Ansible for provisioning and configuration automation.
+- **DevOps & CI/CD:** Capable of building automated pipelines using Jenkins, Docker, Kubernetes, and GitHub Actions.
+- **Networking Expertise:** Strong experience with VLANs, VPNs, and firewall management across Cisco, Meraki, and Mikrotik environments.
+- **Network Security:** Skilled in AAA, Access Lists, IDS/IPS, and security-focused routing and switching.
+- **Security Hardening:** Focused on system protection, vulnerability mitigation, and secure infrastructure design.
+- **Web Development:** Competent in PHP, JavaScript, HTML, CSS, WordPress, and Laravel for building and optimizing web applications.
+- **Email & Domain Management:** Experienced with cPanel and Microsoft Exchange/M365, including DNS records such as MX, SPF, DKIM, and DMARC.
+- **Monitoring & Observability:** Experienced in Zabbix, Nagios, and Grafana for environment monitoring and performance analytics.
+- **Virtualization & Compute:** Skilled with VMware and Proxmox virtualization environments.
+- **Directory Services & IAM:** Knowledgeable in Samba AD DC, authentication, and identity access management.
+- **Reverse Proxy & Web Servers:** Experienced with Nginx and Apache for load balancing and SSL handling.
+- **Expertise in Scripting:** Proficient in Python and Bash scripting for automation and problem-solving.
+- **Hardware Repair:** Skilled in diagnosing and repairing servers, desktops, and laptops to ensure optimal performance.
+- **Switching Proficiency:** Extensive experience with switching technologies from Cisco, HP, and Aruba for reliable network connectivity.
+- **Routing Expertise:** Proficient with routers from Mikrotik and Cisco to ensure stability and performance.
+- **Safeguarding Digital Environments:** Prioritizes protecting organizations and individuals from cyber threats.
+- **Ensuring Data Privacy and Compliance:** Committed to maintaining data privacy, legal compliance, and secure information handling.
+- **Programming Languages:** Java, Python, JavaScript, SQL, PHP, C#.
+- **Frameworks:** .Net, Spring, Laravel.
+- **Cybersecurity:** Threat analysis, malware detection, and incident response.
 - **Operating Systems:** Linux, Windows, Windows Server, MacOS.
+
 
 
 📫 Reference: 
